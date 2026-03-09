@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**mashudu08/mashudu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+    DevOps practices, Linux and Automation 
+- 🌱 I’m currently learning 
+    System design and cloud architecture principles
+- 👯 I’m looking to collaborate on 
+    Open-source projects involving Java, Cloud
+- 💬 Ask me about 
+    Java & Spring Boot development
+    Learning cloud technologies
+- 📫 How to reach me: 
+        LinkedIn: 
+- 😄 Pronouns: 
+    she/her
+- ⚡ Fun fact:
+     I enjoy hiking and spending time in nature, and I also explore mutlti media creative outlets.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
